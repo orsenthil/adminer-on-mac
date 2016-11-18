@@ -61,3 +61,11 @@ We will install adminer with the goal of accessing it at
 
 
 That's it!
+
+Result
+------
+
+Here is how mine looks
+
+![Adminer](https://dl.dropbox.com/s/7lm0jqkfh0794j6/Screenshot%202016-11-17%2018.16.54.png)
+
